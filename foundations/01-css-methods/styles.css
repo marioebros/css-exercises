@@ -2,17 +2,6 @@ div {
     color: white;
     font-size: 32px;
     background-color: red;
-    align-content: center;
+    text-align: center;
     font-weight: bold;
-}
-
-p{
-    color: white;
-    font-size: 18px;
-    background-color: green;
-}
-
-.button {
-    background-color: orange;
-    font-size: 18px;
 }
